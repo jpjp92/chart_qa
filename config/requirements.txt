@@ -1,4 +1,0 @@
-streamlit
-openai
-pathlib
-python-dotenv
